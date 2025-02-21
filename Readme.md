@@ -43,10 +43,3 @@ Here's a breakdown of the topics covered:
 
 Each day's content will be in its respective directory.  You can browse the code examples and read the accompanying notes to understand the concepts.
 
-## Contribution
-
-While this repository primarily serves as my learning journal, contributions and suggestions are welcome! Feel free to open issues or submit pull requests.
-
-## License
-
-[Choose a license - e.g., MIT License, Apache License 2.0, etc.]  Add the license text to the repository.
